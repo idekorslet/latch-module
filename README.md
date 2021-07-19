@@ -6,7 +6,10 @@ skematik:
 
 <img src="https://github.com/idekorslet/latch-module/blob/main/skematik.JPG">
 
-video:
+cuplikan penggunaan:
+
+
+video tutorial:
 
 
 referensi skematik:
