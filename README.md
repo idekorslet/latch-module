@@ -2,9 +2,13 @@
 modul yang berguna untuk mengaktifkan modul lain supaya tetap on atau tetap off hanya dengan sekali pencet tombol.
 bisa digunakan untuk mengontrol kerja relay ataupun yang lainnya sesuai keperluan.
 
-skematik:
+skematik dengan transistor / schematic with transistor:
 
 <img src="https://github.com/idekorslet/latch-module/blob/main/skematik.JPG">
+
+skematik tanpa transistor / schematic without transistor:
+<img src="https://github.com/idekorslet/latch-module/blob/main/skematik2.jpg.JPG">
+
 
 cuplikan penggunaan:
 [![thumbnail](https://user-images.githubusercontent.com/80518183/126108978-ecc7d0ad-a68d-4081-998b-8abc693bbd94.JPG)](https://user-images.githubusercontent.com/80518183/126108554-9c67c84e-61c4-44d8-9005-f88adb5c5c06.mp4)
